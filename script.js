@@ -1,2 +1,6 @@
 
-console.log("This would contain the full quiz logic and interactivity.");
+let currentIndex = 0;
+
+function next() {
+    document.getElementById("quiz-container").innerHTML = "<p>Question will load here...</p>";
+}
