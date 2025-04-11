@@ -1,2 +1,2 @@
 
-console.log("Quiz logic will go here!");
+console.log("This would contain the full quiz logic and interactivity.");
